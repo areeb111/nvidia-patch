@@ -30,8 +30,10 @@ Requirements:
   - [418.43](https://download.nvidia.com/XFree86/Linux-x86_64/418.43/NVIDIA-Linux-x86_64-418.43.run)
   - [418.56](https://download.nvidia.com/XFree86/Linux-x86_64/418.56/NVIDIA-Linux-x86_64-418.56.run)
 
-Tested on Ubuntu 18.04 LTS (GNU/Linux 4.15.0-23-generic x86\_64)
-
+## Tested on: 
+ - Ubuntu 18.04 LTS (GNU/Linux 4.15.0-23-generic x86\_64)
+ - CentOS 7 (3.10.0-862.9.1.el7.x86_64) with Driver Version: 418.56
+ 
 ## Synopsis
 
 ```
